@@ -1,1 +1,2 @@
-print "hello_every_one"
+print ("hello")
+
